@@ -16,5 +16,5 @@
             "Zrh\\Hello\\": "src"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
