@@ -1,0 +1,19 @@
+{
+    "name": "zrh/hello",
+    "description": "first composer library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ponyJoin",
+            "email": "1229610742@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zrh\\Hello\\": "src"
+        }
+    }
+}
