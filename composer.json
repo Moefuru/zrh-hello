@@ -15,5 +15,6 @@
         "psr-4": {
             "Zrh\\Hello\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
